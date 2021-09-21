@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 0.5rem;
+  margin: 2px;
+  border: solid black;
+  background: blanchedalmond;
+}
+
+li {
+  liststyle: "none";
+  padding: "1rem";
+  border: "1px solid #D1D5DB";
+  width: "70%";
+  margin: "1rem 0rem";
+  borderradius: "0.5rem";
+}
